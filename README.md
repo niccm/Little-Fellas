@@ -50,58 +50,60 @@ Below are the links to the original files.
 
 [Customizable Elytra](https://www.curseforge.com/minecraft/mc-mods/customizable-elytra/files/all?filter-game-version=2020709689%3A8516)
 
+<>
 
+[Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass/files/all?filter-game-version=2020709689%3A8516)
 
+<>
 
-
-
-
-
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=2020709689%3A8516)
 
 [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/all?filter-game-version=2020709689%3A8516)
 
+<>
 
+[GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8516)
 
+[Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders/files/all?filter-game-version=2020709689%3A8516)
+
+[Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/files/all?filter-game-version=2020709689%3A8516)
+
+<>
+
+[Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters/files/all?filter-game-version=2020709689%3A8516)
+
+<>
 
 [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?filter-game-version=2020709689%3A8516)
 
+<>
+
+[JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?filter-game-version=2020709689%3A8516)
+
+<>
+
+
+
 [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-
-
-
 
 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A8516)
 
 [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/all?filter-game-version=2020709689%3A8516)
 
-
-
-
-
-
-
-
-
-
-
 [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 
 [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/files/all?filter-game-version=2020709689%3A8516)
 
-[Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders/files/all?filter-game-version=2020709689%3A8516)
 
 [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai/files/all?filter-game-version=2020709689%3A8516)
 
 [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/all?filter-game-version=2020709689%3A8516)
 
-[GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A8516)
+
 
 [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster/files/all?filter-game-version=2020709689%3A8516)
 
-[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?filter-game-version=2020709689%3A8516)
+
 
 [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear/files/all?filter-game-version=2020709689%3A8516)
 
@@ -116,18 +118,18 @@ Below are the links to the original files.
 
 [Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem/files/all?filter-game-version=2020709689%3A8516)
 
-[Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters/files/all?filter-game-version=2020709689%3A8516)
+
 
 [Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_/files/all?filter-game-version=2020709689%3A8516)
 
-[Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass/files/all?filter-game-version=2020709689%3A8516)
+
 
 [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/all?filter-game-version=2020709689%3A8516)
 
 [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs/files/all?filter-game-version=2020709689%3A8516)
 
-[JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?filter-game-version=2020709689%3A8516)
 
-[Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/files/all?filter-game-version=2020709689%3A8516)
+
+
 
 [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/all?filter-game-version=2020709689%3A8516)
