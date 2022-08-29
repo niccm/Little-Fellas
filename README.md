@@ -8,8 +8,14 @@ Download Forge 1.17.1
 https://files.minecraftforge.net/net/minecraftforge/forge/index_1.17.1.html
 
 All rights are given to the creators of these mods.
+Below are the links to the original files.
+
+[Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/all?filter-game-version=2020709689%3A8516)
 
 [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?filter-game-version=2020709689%3A8516)
+
+[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/all?filter-game-version=2020709689%3A8516)
+
 
 [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?filter-game-version=2020709689%3A8516)
 
@@ -19,7 +25,6 @@ All rights are given to the creators of these mods.
 
 [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/files/all?filter-game-version=2020709689%3A8516)
 
-[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/all?filter-game-version=2020709689%3A8516)
 
 
 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A8516)
@@ -32,7 +37,7 @@ All rights are given to the creators of these mods.
 
 [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/all?filter-game-version=2020709689%3A8516)
 
-[Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/all?filter-game-version=2020709689%3A8516)
+
 
 [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel/files/all?filter-game-version=2020709689%3A8516)
 
