@@ -76,60 +76,56 @@ Below are the links to the original files.
 
 [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?filter-game-version=2020709689%3A8516)
 
+[Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/files/all?filter-game-version=2020709689%3A8516)
+
 <>
 
 [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/all?filter-game-version=2020709689%3A8516)
 
 <>
 
-
-
-[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones/files/all?filter-game-version=2020709689%3A8516)
-
-[Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A8516)
-
-[OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/all?filter-game-version=2020709689%3A8516)
-
-[Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
-
-[Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/files/all?filter-game-version=2020709689%3A8516)
-
-
 [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai/files/all?filter-game-version=2020709689%3A8516)
-
-[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-[Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-[Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-
-[The Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-[Xaero's Minimap](http://adfoc.us/serve/sitelinks/?id=190660&url=https://chocolateminecraft.com/mods2/minimap/Xaeros_Minimap_22.9.3_Forge_1.17.1.jar)
-
-[Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-[Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_/files/all?filter-game-version=2020709689%3A8516)
-
-
-
-[Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/all?filter-game-version=2020709689%3A8516)
 
 [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs/files/all?filter-game-version=2020709689%3A8516)
 
+<>
 
+[Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/all?filter-game-version=2020709689%3A8516)
 
+<>
 
+[OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/all?filter-game-version=2020709689%3A8516)
+
+<>
+
+[Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/all?filter-game-version=2020709689%3A8516)
+
+[Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster/files/all?filter-game-version=2020709689%3A8516)
+
+<>
+
+[Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear/files/all?filter-game-version=2020709689%3A8516)
+
+[Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_/files/all?filter-game-version=2020709689%3A8516)
+
+[Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+
+<>
+
+[The Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod/files/all?filter-game-version=2020709689%3A8516)
 
 [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/all?filter-game-version=2020709689%3A8516)
+
+<>
+
+[Void Totem](https://www.curseforge.com/minecraft/mc-mods/voidtotem/files/all?filter-game-version=2020709689%3A8516)
+
+<>
+
+[Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/all?filter-game-version=2020709689%3A8516)
+
+[Xaero's Minimap](http://adfoc.us/serve/sitelinks/?id=190660&url=https://chocolateminecraft.com/mods2/minimap/Xaeros_Minimap_22.9.3_Forge_1.17.1.jar)
+
+<>
+
+[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones/files/all?filter-game-version=2020709689%3A8516)
