@@ -1,4 +1,6 @@
 # Little-Fellas
+Discord - https://discord.gg/ajrBeNyp
+
 
 Download Java 18 -
 https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html
