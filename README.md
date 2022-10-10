@@ -2,7 +2,7 @@
 ---->[Download Instructions](https://docs.google.com/document/d/1hTaWrixu58gP2AHTmBywzqMeUOAnGdcY825Sa3bnhH8/edit)
 
 
-Discord - https://discord.gg/ajrBeNyp
+Discord - https://discord.gg/F3rAcuNSZJ
 
 
 Download Java 18 -
